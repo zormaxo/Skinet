@@ -1,3 +1,6 @@
 d:
 cd D:\Codes\Skinet General\Skinet\API
-dotnet watch run
+start dotnet watch run
+cd D:\Codes\Skinet General\Skinet\client
+ng s
+pause
